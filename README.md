@@ -4,7 +4,11 @@ Ubuntu Tips and Tricks
 
 ----------------------------
 
-### User Management
+**Table of Contents**
+- [User Management](#User_Management)
+
+
+### User_Management
 
 * Enter SuperUser mode
 ```bash
