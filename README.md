@@ -5,8 +5,8 @@ Ubuntu Tips and Tricks
 ----------------------------
 
 **Table of Contents**
-  - [User Management](#User_Management)
-  - [Work with Files](#Work_with_Files)
+  - [User Management](#User%20Management)
+  - [Work with Files](#Work%20with%20Files)
 
 
 ### User Management
