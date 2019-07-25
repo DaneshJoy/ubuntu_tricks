@@ -9,7 +9,7 @@ Ubuntu Tips and Tricks
   - [Work with Files](#Work%20with%20Files)
 
 
-### User Management
+### User%20Management
 
 * Enter SuperUser mode
 ```bash
@@ -23,7 +23,7 @@ passwd
 
 ----------------------------
 
-### Work with Files
+### Work%20with%20Files
 
 * Type of a file
 ```bash
