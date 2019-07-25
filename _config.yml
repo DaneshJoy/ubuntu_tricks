@@ -1,1 +1,9 @@
-theme: jekyll-theme-modernist
+theme                     : jekyll-theme-modernist
+
+# Site Settings
+locale                    : "en-US"
+title                     : "Ubuntu Tricks"
+name                      : "سعید محققی Saeed Mohagheghi"
+
+description               : "Ubuntu Tips and Tricks"
+show_downloads            : false
