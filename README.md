@@ -23,7 +23,7 @@ passwd
 
 ----------------------------
 
-### Work-with-Files
+### Work with Files
 
 * Type of a file
 ```bash
