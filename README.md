@@ -5,11 +5,11 @@ Ubuntu Tips and Tricks
 ----------------------------
 
 **Table of Contents**
-  - [User Management](#User%20Management)
-  - [Work with Files](#Work%20with%20Files)
+  - [User Management](#User-Management)
+  - [Work with Files](#Work-with-Files)
 
 
-### User%20Management
+### User Management
 
 * Enter SuperUser mode
 ```bash
@@ -23,7 +23,7 @@ passwd
 
 ----------------------------
 
-### Work%20with%20Files
+### Work-with-Files
 
 * Type of a file
 ```bash
