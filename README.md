@@ -5,7 +5,8 @@ Ubuntu Tips and Tricks
 ----------------------------
 
 **Table of Contents**
-- [User Management](#User_Management)
+  - [User Management](#User_Management)
+  - [Work with Files](#Work_with_Files)
 
 
 ### User_Management
@@ -22,7 +23,7 @@ passwd
 
 ----------------------------
 
-### Work with Files
+### Work_with_Files
 
 * Type of a file
 ```bash
