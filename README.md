@@ -8,6 +8,7 @@ Ubuntu Tips and Tricks
   - [User Management](#User-Management)
   - [Work with Files](#Work-with-Files)
 
+----------------------------
 
 ### User Management
 
