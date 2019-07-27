@@ -10,7 +10,7 @@ Ubuntu Tips and Tricks
 
 ----------------------------
 
-### User Management
+### User-Management
 
 * Enter SuperUser mode
   ```bash
@@ -24,7 +24,7 @@ Ubuntu Tips and Tricks
 
 ----------------------------
 
-### Work with Files
+### Work-with-Files
 
 * Type of a file
   ```bash
