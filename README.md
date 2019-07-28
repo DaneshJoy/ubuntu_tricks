@@ -4,7 +4,7 @@ Ubuntu Tips and Tricks
 
 ----------------------------
 
-### Table of Contents
+# Table of Contents
 {.:no-toc}
 
 * TOC
