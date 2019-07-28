@@ -4,8 +4,7 @@ Ubuntu Tips and Tricks
 
 ----------------------------
 
-# Table of Contents
-{.:no-toc}
+###{.:no-toc} Table of Contents
 
   - [User Management](#user-management)
   - [Work with Files](#work-with-files)
