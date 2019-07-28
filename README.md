@@ -1,12 +1,13 @@
 # UbuntuTricks
 
-Ubuntu Tips and Tricks
+Ub-untu Tips and Tricks
 
 ----------------------------
 
-**Table of Contents**
-  - [User Management](#User-Management)
-  - [Work with Files](#Work-with-Files)
+### Table of Contents
+
+> - [User Management](#user-management)
+> - [Work with Files](#work-with-files)
 
 ----------------------------
 
