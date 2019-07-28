@@ -7,14 +7,8 @@ Ubuntu Tips and Tricks
 # Table of Contents
 {.:no-toc}
 
-* TOC
-{:toc}
-
-----------------------------
-
-**Table of Contents**
-  - [User Management](#user-Management)
-  - [Work with Files](#work-with-Files)
+  - [User Management](#user-management)
+  - [Work with Files](#work-with-files)
 
 ----------------------------
 
