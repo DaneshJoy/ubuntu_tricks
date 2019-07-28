@@ -2,14 +2,15 @@
 
 Ubuntu Tips and Tricks
 
-### Contents
+**Table of Contents**
+{.:no-toc}
 {:toc}
 
 ----------------------------
 
 **Table of Contents**
-  - [User Management](#User-Management)
-  - [Work with Files](#Work-with-Files)
+  - [User Management](#user-Management)
+  - [Work with Files](#work-with-Files)
 
 ----------------------------
 
