@@ -2,11 +2,9 @@
 
 Ubuntu Tips and Tricks
 
-# Contents
-{:.no_toc}
-
-* test
+### Contents
 {:toc}
+
 ----------------------------
 
 **Table of Contents**
